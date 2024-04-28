@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<Title>Typhoon Paeng</Title>
+
+<style>
+
+body {margin:0;}
+
+
+ul {
+
+  list-style-type: none;
+
+  margin: 0;
+
+  padding: 15px;
+
+  overflow: hidden;
+
+  background-color: black;
+
+  position: fixed;
+
+  top: 0;
+
+  width: 100%;
+
+}
+
+
+li {
+
+  float: left;
+
+}
+
+
+li a {
+
+  display: block;
+
+  color: white;
+  
+  font-size: 20px;
+
+  text-align: center;
+
+  padding: 14px 16px;
+
+  text-decoration: none;
+
+}
+
+
+li a:hover:not(.active) {li a:hover:not(.active) {
+
+  background-color: black;
+
+}
+
+
+.active {
+
+  background-color: black;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+
+<ul>
+
+  <li><a class="active" href="index.html">Home</a></li>
+
+  <li><a href="#typhoon">Typhoon</a></li>
+
+  <li><a href="contactus.html">Contact Us</a></li>
+
+  <li><a href="aboutus.html">About Us</a></li>
+
+</ul>
+
+<div style="padding:40px;margin-top:30px;background-color:white;height:3200px;">
+
+<h1 style="text-align: center; font-family:Garamond; font-size:45px;line-height:30px; color: black"><br><br>Typhoon Paeng(Nalgae)</h1>
+<br>
+   <img src="https://monitoring-dashboard.ndrrmc.gov.ph/assets/uploads/situations/313186794_533376421944100_1209742459529647745_n.jpg" style="max-width: 530px; float: left; border-radius: 10px; border: 3px solid white; border-color: black; margin-left: 50px;"<img/>
+
+<div class="container">
+
+<div classes="text">
+
+   <p style="text-align: left; font-family:Times New Roman; font-size:25px; line-height:30px; color: black; margin-left: 600px;">Typhoon Nalgae, which is locally known as Typhoon Paeng, is a <mark style="background: yellow;">Tropical Storm that struck the Philippines on October 29, 2022 and dissipated on November 3, 2022.</mark> The Tropical Storm lashed many parts of the Philippines, with the highest windspeed of 130km/h. <mark style="background: yellow;">The Philippine Atmospheric, Geophysical, and Astronomical Services Administration (PAGASA) reported the development of Tropical Depression (TD) "Paeng" from an identified Low Pressure Area.</mark> <br>The typhoon made its initial landfall in Virac, Catanduanes; where it brought heavy to intense with at times torrential rains over the Bicol Region. The typhoon soon intensified and raised a Signal Warning No. 3.</p>
+
+<p style="text-align: left; font-family:Times New Roman; font-size:25px;line-height:30px; color: black; margin-left: 40px;"><br><br>Typhoon Paeng then shortly made its second landfall at Caramoan, Camarines Sur. <br>Its next landfall was then located at Buena Vista, Quezon. <br>For the fourth landfall, Typhoon Paeng was found at Santa Cruz, Marinduque. The typhoon then made its way to Sariaya, Quezon. The Typhoon's last landfall was seen at Baliuag, Bulacan, and dissipated there.</p>
+
+<p style="text-align: left; font-family:Times New Roman; font-size:25px;line-height:30px; color: black; margin-left: 40px;">Typhoon Paeng brought strong winds and heavy rainfall that resulted in landslides <br> and over 554 flooding incidents in various areas across the country.<mark style="background: yellow;">The wrath of the typhoon caused lack of access to basic services</mark> like financial services, health care and other predictors of vulnerability to climate change,<br> leaving Filipinos largely susceptible to immediate effects like flooding, damage to infrastructure, death and injury.<br>Over 364,000 people were left homeless, and some of them stayed in 2,125 evacuation centers nationwide.</p>
+
+<p style="text-align: left; font-family:Times New Roman; font-size:25px;line-height:30px; color: black; margin-left: 40px;">In response to the disaster Typhoon Paeng has caused,<mark style="background: yellow;"> the Department of Health provided ₱31 Million worth of medical supplies and medicines to assist the affected communities.</mark> They also deployed 633 evacuation centers to help improve the affected families' health condition. In addition to that, <mark style="background: yellow;">the Philippine Red Cross also offered help to the affected communities at Maguindanao and Cotabato City by providing hot meals, and water.</mark> The residents were assisted by the PRC Emergency Response Unit to evacuate to the local government’s evacuation center.</p>
+
+<h1 style="text-align: center; font-family:Garamond; font-size:45px; color: black;">How does a typhoon form?</h1>
+
+<p style="text-align: left; font-family:Times New Roman; font-size:25px;line-height:30px; color: black; margin-left: 40px;">First of all, how is a typhoon created at the first place? A typhoon forms when winds blow into area of an ocean where the water was warm. Because winds collect moisture and rise, while colder air moves below and this create the winds to move very faster or quickly, creating a swirling typhoon. Sometimes typhoons form due to high temperatures around the sea surface, as a result of which water evaporates and becomes warm and humid air.</p>
+
+<br><br>
+<hr style="width: 100%;">
+
+<h1 style="text-align: center; font-family:Garamond; font-size:45px; color: black;">Safety Precautions</h1>
+
+<p style="font-family:Times New Roman; font-size:25px;line-height :30px;  color: black; margin-left: 40px;">Typhoon Paeng has caused 2,000,000+ innocent lives to be injured and dead. We should take action and do whatever it takes to prevent events like these from harming our loved ones, relatives, and our fellow citizens. So, here are the safety precautions we must follow to lessen the impact of a typhoon:</p>
+
+<p style="font-family: Garamond; font-size:30px; line-height :30px; color:Black; margin-left: 50px;">Step 1: Pack your bags with the basic necessities.</p>
+
+<div class="container">
+<img src="https://s.w-x.co/disaster_supply_kit.jpg" style="max-width: 530px; float: left; border-radius: 10px; border: 3px solid white; border-color: black; margin-left: 50px;"<img/>
+
+<p style="font-family: Times New Roman; font-size:22px;line-height :40px; color: black; margin-left: 600px;">You may get stuck at home for a while during the typhoon, so it is important to have ready-to-eat food and water bottles with you to satisfy your family's hunger and thirst. Also, we must prepare for a situation where someone gets injured. Having a first aid kit or emergency go bag ensures you and your family that you have the essentials needed to survive until help arrives or the injured person's health conditions improve. Your emergency go bag and first aid kit should contain these items: bandages, alcohol, flashlight, whistle,  medicine, and betadine.</p>
+
+
+<p style="font-family: Garamond; font-size:30px;line-height :30px;  color: black; margin-left: 50px;">Step 2:  Secure your home.</p>
+<div class="container">
+<img src="https://www.findyello.com/wp/wp-content/uploads/2017/05/Hurricane-prep-boarding-windows.jpg" style="max-width: 530px; float: left; border-radius: 10px; border: 3px solid white; border-color: black; margin-left: 50px;"<img/>
+
+<p style="font-family:Times New Roman; font-size:22px;line-height :40px;  color: black; margin-left: 600px;">Close all windows and doors and secure outdoor objects or bring them indoors. Make sure that your house doesn't have any cracks or damages, but in case it has damages, quickly attempt to repair it. 
+Place all important appliances and belongings on high ground level and turn off propane tanks for when flooding occurs. Make sure to also turn off the main power switch before leaving your house if needed to evacuate.</p>
+
+
+<p style="font-family:Garamond; font-size:30px;line-height :30px;  color: black; margin-left: 50px;"><br><br><br><br>Step 3: Stay alert for updates on the typhoon.</p>
+
+<div class="container">
+<img src="https://www.phoenixfm.com/wp-content/uploads/2021/01/radio.jpg" style="max-width: 530px; float: left; border-radius: 10px; border: 3px solid white; border-color: black; margin-left: 50px;"<img/>
+
+<p style="font-family:Times New Roman; font-size:22px;line-height :40px; color: black; margin-left: 600px;">Listen to the radio or TV for information regarding the typhoon. By listening for updates on the typhoon, we can prepare and pack our things up early in case we need to evacuate. It is necessary to have a battery-operated radio, power bank, and your phone to call for help and emergencies.</p>
+
+<p style="font-family:Garamond; font-size:30px;line-height :30px; color: black; margin-left: 50px;"><br><br><br><br><br><br><br>Step 4: Stay alert for when the government makes an announcement about evacuation.</p>
+
+<div class="container">
+
+<img src="https://media.philstar.com/photos/2023/01/30/malanday-evac-centerjpeg_2023-01-30_18-25-49.jpg" style="max-width: 530px; float: left; border-radius: 10px; border: 3px solid white; border-color: black; margin-left: 50px;"<img/>
+
+<p style="font-family:Times New Roman; font-size:22px;line-height :40px; color: black; margin-left: 600px;">When the government declares that everyone should evacuate, stay calm and don't panic, because that will only worsen the situation.<br> Make sure you have your valuables and belongings with you before you leave your home. Be patient and wait for a while until it is announced<br> that it is safe to go back home. But even when the government says so, you should still stay alert because the typhoon might have a secondary hit.</p>
+</div>\
+
+<p style="font-family:Garamond; font-size:30px;line-height :30px; color: black; margin-left: 50px;"><br><br><br>Step 5: Be wary of your surroundings.</p>
+
+<div class="container">
+<img src="https://www.redcross.ca/blogImages/en-CA/2012/08/philippines-floods.jpg" style="width: 530px; height: 300px; float: left; border-radius: 10px; border: 3px solid white; border-color: black; margin-left: 50px;"<img/>
+
+<p style="font-family:Times New Roman; font-size:22px;line-height :40px; color: black; margin-left: 600px;">When leaving your house or a shelter that you're staying at, be cautious for potential danger. Avoid wading through floodwaters and anything that involves electricity.<br> Check your belongings and keep your valuables and emergency go bag with you in case anything happens.</p>
+
+<h1 style="font-family:Garamond; font-size:30px;line-height :40px; color: black; text-align: center;"><br><br><br><br>Test Your Knowledge</h1>
+<p style="font-family:Times New Roman; font-size:22px;line-height :40px; color: black; text-align: center;">If you want to test your knowledge based on what you learned from the<br>information provided above, take this short quiz:</p>
+
+<p><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdZZCGpfY7ZgC73QTDIRLRKliEasgkHcU4TPIR70Qm3EcFqsA/viewform?usp=sf_link" target=_blank" style="border: none; color: black; padding: 15px 32px; margin-left:530px; text-decoration: none; font-size: 22px; font-family: Garamond; background: lightgrey; border-radius: 10px;">Quiz</a></b></p>
+
+<br><br><br><br>
+<hr style="width: 100%;">
+<p style="text-align: center; font-style:Times New Roman; font-size:22px;line-height:30px; color: black;">Nasa Earth Observatory. “Tropical Storm Nalgae Batters the Philippines”. (Nov. 1, 2022).</p>
+
+<div style="text-align:center ;"> 
+<a style="font-family: Times New Roman; padding:15px 35px 15px 35px; font-size:22px; color : blue; text-decoration: none;" href="https://earthobservatory.nasa.gov/images/150549/tropical-storm-nalgae-batters-the-philippines">https://earthobservatory.nasa.gov/images/150549/tropical-storm-nalgae-batters-the-philippines</a></div>
+
+<p style="text-align: center;font-family:Times New Roman; font-size:22px;line-height :30px; color: black;">Manila Bulletin. “Tropical Cyclone Paeng Tracker”. (Oct. 31, 2022).</p>
+
+<div style="text-align:center ;"> 
+<a style="font-family: Times New Roman;padding:15px 35px 15px 35px; font-size:22px; color : blue; text-decoration:none;" href="https://mb.com.ph/2022/10/31/tropical-cyclone-paeng-tracker/">https://mb.com.ph/2022/10/31/tropical-cyclone-paeng-tracker/</a></div>
+
+<p style="text-align: center; font-family:Times New Roman; font-size:22px;line-height :30px; color: black;">Philippine News. “Typhoon Paeng Death Toll, Damage, Areas Hit, Relief Updates”. (Oct. 30, 2022).</p>
+
+<div style="text-align:center;"> 
+<a style="font-family: Times New Roman; padding:15px 35px 15px 35px; font-size: 22px; color : blue; text-decoration: none ;" href="https://philnews.ph/2022/10/30/typhoon-paeng-death-toll-damage-areas-hit-relief-updates/
+">https://philnews.ph/2022/10/30/typhoon-paeng-death-toll-damage-areas-hit-relief-updates/</a></div>
+
+<p style="text-align: center; font-family:Times New Roman; font-size:22px;line-height :30px; color: black;">ReliefWeb. "Philippine Red Cross intensifies response to people affected by Severe Tropical Storm Paeng, brings hot meals, water to Maguindanao, Cotabato City". (Nov. 3, 2022).</p>
+
+<div style="text-align:center ;"> 
+<a style="font-family: Times New Roman;padding:15px 35px 15px 35px; font-size:22px; color : blue; text-decoration:none;" href="https://reliefweb.int/report/philippines/philippine-red-cross-intensifies-response-people-affected-severe-tropical-storm-paeng-brings-hot-meals-water-maguindanao-cotabato-city">https://reliefweb.int/report/philippines/philippine-red-cross-intensifies-response-people-affected-severe-tropical-storm-paeng-brings-hot-meals-water-maguindanao-cotabato-city</a></div>
+
+<p style="text-align: center; font-family:Times New Roman; font-size:22px;line-height :30px; color: black;">GMA. "DOH allocates P31 million in medicines, supplies for Paeng-hit areas". (Oct. 30, 2022).</p>
+
+h<div style="text-align:center ;"> 
+<a style="font-family: Times New Roman;padding:15px 35px 15px 35px; font-size:22px; color : blue; text-decoration:none;" href="https://www.gmanetwork.com/news/topstories/nation/849790/doh-allocates-p31-million-in-medicines-supplies-for-paeng-hit-areas/story/">https://www.gmanetwork.com/news/topstories/nation/849790/doh-allocates-p31-million-in-medicines-supplies-for-paeng-hit-areas/story/</a></div>
+
+</body>
+</html>

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<Title>Contact Us</Title>
+
+<style>
+
+body {margin:0;}
+
+
+ul {
+
+  list-style-type: none;
+
+  margin: 0;
+
+  padding: 15px;
+
+  overflow: hidden;
+
+  background-color: black;
+
+  position: fixed;
+
+  top: 0;
+
+  width: 100%;
+
+}
+
+
+li {
+
+  float: left;
+
+}
+
+
+li a {
+
+  display: block;
+
+  color: white;
+  
+  font-size: 20px;
+
+  text-align: center;
+
+  padding: 14px 16px;
+
+  text-decoration: none;
+
+}
+
+
+li a:hover:not(.active) {li a:hover:not(.active) {
+
+  background-color: black;
+
+}
+
+
+.active {
+
+  background-color: black;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+
+<ul>
+
+  <li><a class="active" href="index.html">Home</a></li>
+
+  <li><a href="typhoon.html">Typhoon</a></li>
+
+  <li><a href="#contactus">Contact Us</a></li>
+
+  <li><a href="aboutus.html">About Us</a></li>
+
+</ul>
+
+
+<div style="padding:0;margin-top:30px;background-color:white;height:800px;">
+
+<div class="container">
+<img src="https://freerangestock.com/sample/149122/top-view-group-business-people-wide-background.jpg" style="width: 1350px; height: 400px;"</img>
+
+<h1 style="font-family:Garamond; font-size:50px; text-align:center; color: black;">Contact Us</h1>
+
+<p style="font-family:Times New Roman; font-size:30px; text-align:center; color: black;">If you have any concerns or questions with our website,<br>kindly contact us via team's email address so that we can address your concern/s:<br><br>
+
+<a href="mailto:websitegrp5@gmail.com?subject=My Subject" target="_blank" style="color: dimgrey; text-decoration:none;">websitegrp5@gmail.com</a></p>
+
+</body>
+</html>

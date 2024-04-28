@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<Title>About Our Team</Title>
+
+<style>
+
+body {margin:0;}
+
+
+ul {
+
+  list-style-type: none;
+
+  margin: 0;
+
+  padding: 15px;
+
+  overflow: hidden;
+
+  background-color: black;
+
+  position: fixed;
+
+  top: 0;
+
+  width: 100%;
+
+}
+
+
+li {
+
+  float: left;
+
+}
+
+
+li a {
+
+  display: block;
+
+  color: white;
+  
+  font-size: 20px;
+
+  text-align: center;
+
+  padding: 14px 16px;
+
+  text-decoration: none;
+
+}
+
+
+li a:hover:not(.active) {li a:hover:not(.active) {
+
+  background-color: black;
+
+}
+
+
+.active {
+
+  background-color: black;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+
+<ul>
+
+  <li><a class="active" href="index.html">Home</a></li>
+
+  <li><a href="typhoon.html">Typhoon</a></li>
+
+  <li><a href="contactus.html">Contact Us</a></li>
+
+  <li><a href="#aboutus">About Us</a></li>
+
+</ul>
+
+
+<div style="margin-top:30;background-color:white;height:800px;">
+
+<div class="container">
+<img src="https://freerangestock.com/sample/149122/top-view-group-business-people-wide-background.jpg" style="width: 1350px; height: 400px;"</img>
+
+<br><br>
+
+<h1 style="font-family:Garamond; font-size:50px; text-align:center; color: black;">About Our Team</h1>
+
+<p style="font-family:Times New Roman; font-size:30px; text-align:center; color: ;"> Our team members are Joyce Buenaobra, Caehlan Aranda,<br>Krystelle Rosana, Oliver Victorino, and Melissa Coldovero.<br>The objective of our website aims to share insight on<br>Typhoon Paeng to those who were unaffected by the typhoon to spread awareness<br>on what happened during Typhoon Paeng and enhance everyone's knowledge on<br> the safety precautions to take in case of a typhoon.</p>
+
+</body>
+</html>
